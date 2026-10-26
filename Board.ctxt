@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\n\ This\ is\ a\ game\ of\ Ultimate\ TicTacToe,\ AKA\ a\ TicTacToe\ of\ TicTacToes\!\n\ \n\ @author\:\ Vrishti\ Patidar\ \n\ Date\:\ 11/10/26\n
+comment1.params=boardSize
+comment1.target=Board(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Board.\n\ Makes\ an\ n^2\ *\ n^2\ board\n
+comment2.params=
+comment2.target=void\ drawBoard()
+comment3.params=
+comment3.target=void\ updateBoard()
+comment3.text=\ Places\ an\ X\ or\ an\ O\ where\ the\ mouse\ clicks.\ \n\ \ \ \ If\ a\ small\ grid\ has\ been\ won,\ a\ larger\ X\ or\ O\ is\ placed\ to\ claim\ that\ grid\n
+comment4.params=
+comment4.target=void\ takeTurn()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ highlightGrid()
+comment7.params=
+comment7.target=void\ checkGameOver()
+numComments=8

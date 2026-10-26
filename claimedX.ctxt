@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=claimedX
+comment0.text=\n\ Write\ a\ description\ of\ class\ claimedX\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=b
+comment1.target=claimedX(Board)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
